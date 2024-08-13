@@ -48,7 +48,7 @@ BOM with source links can be found in the [Instructions PDF](docs/PDF).
 # Instructions
 For complete instructions, please download the [Instrucitons PDF here](docs/PDF).
 
-![Statial.b Instruction Manual](img/statial-b_inst_02.png)
+![Statial.b Instruction Manual](img/IMG_3623.JPG)
 
 ![Statial.b Instruction Manual](docs/img/statial-b_inst_03.png)
 
