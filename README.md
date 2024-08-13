@@ -92,7 +92,7 @@ For complete instructions, please download the [Instrucitons PDF here](docs/PDF)
 
 ![Statial.b Instruction Manual](docs/img/statial-b_inst_23.png)
 
-<img src="docs/img/statial-b_inst_02.png" width="100%" alt="Instruction Manual">
+<img src="img/IMG_3623.JPG" width="100%" alt="Instruction Manual">
 <img src="docs/img/statial-b_inst_03.png" width="100%" alt="Instruction Manual">
 <img src="docs/img/statial-b_inst_04.png" width="100%" alt="Instruction Manual">
 <img src="docs/img/statial-b_inst_05.png" width="100%" alt="Instruction Manual">
