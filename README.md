@@ -17,6 +17,7 @@ All 3D printed parts need to be made in a “tough” or “abs like” resin ma
 **This project will not work if parts are 3D printed in FDM**
 
 Current (2024) project materials costs are around $200 (not including tools). This is more of a rough guess to let you know what you are getting into.
+![IMG3623](https://github.com/user-attachments/assets/2763719f-31dc-4cd0-99d4-d4f4cedbe281)
 
 
 # Code Background
