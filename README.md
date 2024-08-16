@@ -17,6 +17,7 @@ All 3D printed parts need to be made in a “tough” or “abs like” resin ma
 **This project will not work if parts are 3D printed in FDM**
 
 Current (2024) project materials costs are around $200 (not including tools). This is more of a rough guess to let you know what you are getting into.
+![IMG3623](https://github.com/user-attachments/assets/2763719f-31dc-4cd0-99d4-d4f4cedbe281)
 
 
 # Code Background
@@ -48,7 +49,7 @@ BOM with source links can be found in the [Instructions PDF](docs/PDF).
 # Instructions
 For complete instructions, please download the [Instrucitons PDF here](docs/PDF).
 
-![Statial.b Instruction Manual](img/statial-b_inst_02.png)
+![Statial.b Instruction Manual](IMG_3623.JPG)
 
 ![Statial.b Instruction Manual](docs/img/statial-b_inst_03.png)
 
@@ -92,7 +93,7 @@ For complete instructions, please download the [Instrucitons PDF here](docs/PDF)
 
 ![Statial.b Instruction Manual](docs/img/statial-b_inst_23.png)
 
-<img src="docs/img/statial-b_inst_02.png" width="100%" alt="Instruction Manual">
+<img src="IMG_3623.JPG" width="100%" alt="Instruction Manual">
 <img src="docs/img/statial-b_inst_03.png" width="100%" alt="Instruction Manual">
 <img src="docs/img/statial-b_inst_04.png" width="100%" alt="Instruction Manual">
 <img src="docs/img/statial-b_inst_05.png" width="100%" alt="Instruction Manual">
