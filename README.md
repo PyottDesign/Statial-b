@@ -50,68 +50,44 @@ For complete instructions, please download the [Instrucitons PDF here](docs/PDF)
 
 ![Statial.b Instruction Manual](img/statial-b_inst_02.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_03.png)
+![Statial.b Instruction Manual](img/statial-b_inst_03.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_04.png)
+![Statial.b Instruction Manual](img/statial-b_inst_04.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_05.png)
+![Statial.b Instruction Manual](img/statial-b_inst_05.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_06.png)
+![Statial.b Instruction Manual](img/statial-b_inst_06.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_07.png)
+![Statial.b Instruction Manual](img/statial-b_inst_07.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_08.png)
+![Statial.b Instruction Manual](img/statial-b_inst_08.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_09.png)
+![Statial.b Instruction Manual](img/statial-b_inst_09.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_10.png)
+![Statial.b Instruction Manual](img/statial-b_inst_10.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_11.png)
+![Statial.b Instruction Manual](img/statial-b_inst_11.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_12.png)
+![Statial.b Instruction Manual](img/statial-b_inst_12.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_13.png)
+![Statial.b Instruction Manual](img/statial-b_inst_13.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_14.png)
+![Statial.b Instruction Manual](img/statial-b_inst_14.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_15.png)
+![Statial.b Instruction Manual](img/statial-b_inst_15.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_16.png)
+![Statial.b Instruction Manual](img/statial-b_inst_16.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_17.png)
+![Statial.b Instruction Manual](img/statial-b_inst_17.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_18.png)
+![Statial.b Instruction Manual](img/statial-b_inst_18.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_19.png)
+![Statial.b Instruction Manual](img/statial-b_inst_19.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_20.png)
+![Statial.b Instruction Manual](img/statial-b_inst_20.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_21.png)
+![Statial.b Instruction Manual](img/statial-b_inst_21.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_22.png)
+![Statial.b Instruction Manual](img/statial-b_inst_22.png)
 
-![Statial.b Instruction Manual](docs/img/statial-b_inst_23.png)
-
-<img src="docs/img/statial-b_inst_02.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_03.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_04.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_05.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_06.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_07.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_08.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_09.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_10.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_11.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_12.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_13.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_14.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_15.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_16.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_17.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_18.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_19.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_20.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_21.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_22.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_23.png" width="100%" alt="Instruction Manual">
-<img src="docs/img/statial-b_inst_24.png" width="100%" alt="Instruction Manual">
+![Statial.b Instruction Manual](img/statial-b_inst_23.png)
