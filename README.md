@@ -46,7 +46,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
 
-<p>
+<br>
 # Instructions
 For complete instructions, please download the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf).
 
