@@ -1,22 +1,24 @@
-![Statial.b Title Banner](docs/img/hero.png)
+![Statial.b Title Banner](img/banner.png)
 
 # Statial.b Adjustable Mouse
-Please check [Statial.b Youtube build](youtube) and the [Instructions PDF](docs/PDF) for more info on this project.
+Please check [Statial.b Youtube build](youtube) and the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf) for more info on this project.
 
-The Statial.b is an open source DIY mouse design. The design has adjustable surfaces that can be moved and locked in position to create a wide range of ergonomics for any grip style. Files for ambidextrous builds are included.
+The Statial.b is an open source DIY mouse design. This concept has adjustable surfaces that can be moved and locked in position to create a wide range of ergonomics for any grip style. Files for ambidextrous builds are included.
 
-This project requires knowledge of 3D printing, basic electronics & soldering skills as well as setting up and uploading code to an Arduino. The design is based around a 16,000 DPI optical sensor in the PMW3389 and driven by an Arduino compatible Pro Micro controller.
+Knowledge of 3D printing, basic electronics & soldering skills as well as the ability to upload code to an Arduino are needed for this build. The design is based around a 16,000 DPI optical sensor in the PMW3389 and driven by an Arduino compatible Pro Micro controller.
 
-This is a fairly complex project. I tried to cover all the assembly details in the [Instructions PDF](docs/PDF) and on the [YouTube build](youtube), but some problem solving skills are going to be required.
+This is a fairly complex project. I tried to cover all the assembly details in the in the instructions PDF and on YouTube, but some problem solving skills are still going to be required.
 
-The finished design is a functioning prototype, there is flex in the various surfaces and a lot of finicky adjusting to get it dialed in. It’s more fragile than a normal commercially produced product. Finally, this is a heavy mouse weighing up to a hefty 130 grams (depending on components used).
+The finished design is a functioning prototype that requires a lot of adjusting to get it dialed in and is more fragile than a normal commercially produced product. It’s also a heavy mouse weighing up to a hefty 130 grams (depending on components used).
 
-Not trying to put anyone off the build, just important to have realistic expectations about the end product. All that said, it works great and is super fun to use. There’s really nothing elese like it out there if you’re looking to explore mouse ergronimcs.
+Not trying to put anyone off the build, just important to have realistic expectations about the end product. All that said, it works great and is super fun to use. There’s really nothing else like it out there if you’re looking to explore mouse ergonomics.
 
-All 3D printed parts need to be made in a “tough” or “abs like” resin material:
-**This project will not work if parts are 3D printed in FDM**
+All 3D printed parts need to be made in a “tough” or “ABS like” resin material. Resin print color is up to you. **This project requires resin printed parts. 
+It will not work if parts are 3D printed with the FDM process.**
 
-Current (2024) project materials costs are around $200 (not including tools). This is more of a rough guess to let you know what you are getting into.
+Current (2024) project materials costs are around $200 (not including tools). This is a rough guess so you have an idea of what you’re getting into.
+
+![Statial.b Image 01](img/image_01.png)
 
 
 # Code Background
@@ -25,7 +27,7 @@ Current (2024) project materials costs are around $200 (not including tools). Th
 * That uses source code from [MrJohnk PMW3389](https://github.com/mrjohnk/PMW3389DM)
 
 # Parts
-BOM with source links can be found in the [Instructions PDF](docs/PDF).
+Full BOM with source links can be found in the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf).
 
 * ~150 mL of [Tough](https://formlabs.com/store/materials/tough-2000-resin/) or [ABS Like](https://store.anycubic.com/products/abs-like-resin-pro-2?srsltid=AfmBOorbNIAT1lDaxvKePQiVIKgR78rkpZjJtzsf-5b1XAJdDYxI4YjZ) resin
 * [PMW3389 Optical Sensor](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/)
@@ -46,15 +48,7 @@ BOM with source links can be found in the [Instructions PDF](docs/PDF).
 
 
 # Instructions
-For complete instructions, please download the [Instrucitons PDF here](docs/PDF).
-
-![Statial.b Instruction Manual](img/statial-b_inst_02.png)
-
-![Statial.b Instruction Manual](img/statial-b_inst_03.png)
-
-![Statial.b Instruction Manual](img/statial-b_inst_04.png)
-
-![Statial.b Instruction Manual](img/statial-b_inst_05.png)
+For complete instructions, please download the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf).
 
 ![Statial.b Instruction Manual](img/statial-b_inst_06.png)
 
