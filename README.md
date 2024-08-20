@@ -9,9 +9,7 @@ Knowledge of 3D printing, basic electronics & soldering skills as well as the ab
 
 This is a fairly complex project. I tried to cover all the assembly details in the in the instructions PDF and on YouTube, but some problem solving skills are still going to be required.
 
-The finished design is a functioning prototype that requires a lot of adjusting to get it dialed in and is more fragile than a normal commercially produced product. It’s also a heavy mouse weighing up to a hefty 130 grams (depending on components used).
-
-Not trying to put anyone off the build, just important to have realistic expectations about the end product. All that said, it works great and is super fun to use. There’s really nothing else like it out there if you’re looking to explore mouse ergonomics.
+The finished design is a functioning prototype that requires a lot of adjusting to get it dialed in and is more fragile than a normal commercially produced product. It’s also a heavy mouse weighing up to a hefty 130 grams (depending on components used). All that said, it works great and is super fun to use. There’s really nothing else like it out there if you’re looking to explore mouse ergonomics.
 
 All 3D printed parts need to be made in a “tough” or “ABS like” resin material. Resin print color is up to you. **This project requires resin printed parts. 
 It will not work if parts are 3D printed with the FDM process.**
