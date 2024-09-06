@@ -27,20 +27,20 @@ Current (2024) project materials costs are around $200 (not including tools). Th
 # Parts
 Full BOM with source links can be found in the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf).
 
-* ~150 mL of [Tough](https://formlabs.com/store/materials/tough-2000-resin/) or [ABS Like](https://store.anycubic.com/products/abs-like-resin-pro-2?srsltid=AfmBOorbNIAT1lDaxvKePQiVIKgR78rkpZjJtzsf-5b1XAJdDYxI4YjZ) resin
+* ~150 mL of [Tough](https://formlabs.com/store/materials/tough-2000-resin/) or [ABS Like](https://store.anycubic.com/products/abs-like-resin-pro-2) resin
 * [PMW3389 Optical Sensor](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/)
 * Pro Micro (5 volt)
 * Custom Bridge Board & Middle Routing Board PCB
 * M2 button head screws & M2.5 set screws
 * M2 and M2.5 nuts
+* 1/8" diameter aluminum tube stock
+* Mouse Glides for Logitech G-Pro
 * 2.0mm pitch PH type end connectors & right angle through hole board connectors
 * (5) Mouse switches
-* 1/8" diameter aluminum tube stock
-* 2.54mm headers, surface mount gull wing, cut to length
 * Push button momentary switch, 6mm x 6mm x 4.5mm
-* [TTC Rotary Encoder](https://www.amazon.com/dp/B0CF9FS3QS?_encoding=UTF8&psc=1&ref=cm_sw_r_cp_ud_dp_CJSM6787T27A3HG0CDGT&ref_=cm_sw_r_cp_ud_dp_CJSM6787T27A3HG0CDGT&social_share=cm_sw_r_cp_ud_dp_CJSM6787T27A3HG0CDGT&skipTwisterOG=1)
+* 2.54mm headers, surface mount gull wing, cut to length
+* [TTC Rotary Encoder](https://a.co/d/5zIg8kU)
 * [NeoPixel 5050 RGB LED](https://www.adafruit.com/product/1655)
-* Mouse Glides for Logitech G-Pro
 * ~6' Micro USB cable or Mouse cable w/ micro USB port connector component 
 * 28 Ga. 6 conductor silicone ribbon wire (or similar)
 * Soldering Iron, Multi-meter, PH Crimping tool and other misc. tools
