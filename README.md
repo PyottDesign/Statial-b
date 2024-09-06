@@ -27,7 +27,7 @@ Current (2024) project materials costs are around $200 (not including tools). Th
 # Parts
 Full BOM with source links can be found in the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf).
 
-* ~150 mL of [Tough](https://formlabs.com/store/materials/tough-2000-resin/) or [ABS Like](https://store.anycubic.com/products/abs-like-resin-pro-2) resin
+* ~170 mL of [Tough](https://formlabs.com/store/materials/tough-2000-resin/) or [ABS Like](https://store.anycubic.com/products/abs-like-resin-pro-2) resin
 * [PMW3389 Optical Sensor](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/)
 * Pro Micro (5 volt)
 * Custom Bridge Board & Middle Routing Board PCB
