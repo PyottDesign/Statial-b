@@ -50,19 +50,19 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 # Configurations
 Modern mouse grip styles have grown out of players adapting to the shape of a mouse. The Statial.b creates the opportunity for new mouse shapes to grow out of grip styles. Below are some common grip type configurations for the Statial.b as starting points for further adjustment. 
 
-PALM
+## PALM
 When fully collapsed the Statial.b is slightly smaller than a normal high performance mouse. Surfaces can be moved out significantly for XL hands.
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
 
-STUBNOSE CLAW
+## STUBNOSE CLAW
 Unlike a normal mouse, the buttons on the Statial.b can pitch forward for different grip types. This allows claw grip users to position buttons perpendicular to pressing motion.
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
 
-BACKLESS FINGER
+## BACKLESS FINGER
 Surfaces can be configured to experiment with alternate grip methods. Finger grip users can remove back surface entirely.
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
 
-VERTICAL
+## VERTICAL
 Surfaces can be configured to +50° angle to mimic the fit of a vertical mouse. Fixed ends of rear surface arms can be extended or longer sections of tube can be cut for even steeper angles. 
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
 
