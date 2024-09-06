@@ -11,8 +11,8 @@ This is a fairly complex project. I tried to cover all the assembly details in t
 
 The finished design is a functioning prototype that requires a lot of adjusting to get it dialed in and is more fragile than a normal commercially produced product. It’s also a heavy mouse weighing up to a hefty 130 grams (depending on components used). All that said, it works great and is super fun to use. There’s really nothing else like it out there if you’re looking to explore mouse ergonomics.
 
-All 3D printed parts need to be made in a “Tough” or “ABS like” resin material. Resin print color is up to you. **This project requires resin printed parts. 
-It will not work if parts are 3D printed with the FDM process.**
+All 3D printed parts need to be made in a “Tough” or “ABS like” resin material. Resin print color is up to you. ***This project requires resin printed parts. 
+It will not work if parts are 3D printed with the FDM process.***
 
 Current (2024) project materials costs are around $200 (not including tools). This is a rough guess so you have an idea of what you’re getting into.
 
