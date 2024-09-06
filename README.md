@@ -30,8 +30,8 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 * ~150 mL of [Tough](https://formlabs.com/store/materials/tough-2000-resin/) or [ABS Like](https://store.anycubic.com/products/abs-like-resin-pro-2?srsltid=AfmBOorbNIAT1lDaxvKePQiVIKgR78rkpZjJtzsf-5b1XAJdDYxI4YjZ) resin
 * [PMW3389 Optical Sensor](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/)
 * Pro Micro (5 volt)
-* [Custom Bridge Board](docs/PDF)
-* Misc M2 and M2.5 button head screws
+* Custom Bridge Board & Middle Routing Board PCB
+* M2 button head screws & M2.5 set screws
 * M2 and M2.5 nuts
 * 2.0mm pitch PH type end connectors & right angle through hole board connectors
 * (5) Mouse switches
