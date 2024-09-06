@@ -41,6 +41,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 * [TTC Rotary Encoder](https://www.amazon.com/dp/B0CF9FS3QS?_encoding=UTF8&psc=1&ref=cm_sw_r_cp_ud_dp_CJSM6787T27A3HG0CDGT&ref_=cm_sw_r_cp_ud_dp_CJSM6787T27A3HG0CDGT&social_share=cm_sw_r_cp_ud_dp_CJSM6787T27A3HG0CDGT&skipTwisterOG=1)
 * [NeoPixel 5050 RGB LED](https://www.adafruit.com/product/1655)
 * Mouse Glides for Logitech G-Pro
+* ~6' Micro USB cable or Mouse cable w/ micro USB port connector component 
 * 28 Ga. 6 conductor silicone ribbon wire (or similar)
 * Soldering Iron, Multi-meter, PH Crimping tool and other misc. tools
 
