@@ -3,9 +3,9 @@
 # Statial.b Adjustable Mouse
 Please check [Statial.b Youtube build](youtube) and the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf) for more info on this project.
 
-The Statial.b is an open source DIY mouse design. This concept has adjustable surfaces that can be moved and locked in position to create a wide range of ergonomics for any grip style. Files for ambidextrous builds are included.
+The Statial.b is an open source DIY mouse design. This concept has adjustable surfaces that can be moved and locked in position to create a wide range of ergonomics for any grip style. Files for ambidextrous builds are included in the STL.zip "extras" folder.
 
-Knowledge of 3D printing, basic electronics & soldering skills as well as the ability to upload code to an Arduino are needed for this build. The design is based around a 16,000 DPI optical sensor in the PMW3389 and driven by an Arduino compatible Pro Micro controller.
+Knowledge of 3D printing, basic electronics & soldering skills as well as the ability to upload the supplied code to an Arduino are needed for this build. The design is based around a 16,000 DPI optical sensor in the [PMW3389](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/)and driven by an Arduino compatible [Pro Micro](https://deskthority.net/wiki/Arduino_Pro_Micro) controller.
 
 This is a fairly complex project. I tried to cover all the assembly details in the in the instructions PDF and on YouTube, but some problem solving skills are still going to be required.
 
@@ -44,7 +44,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 * [NeoPixel 5050 RGB LED](https://www.adafruit.com/product/1655)
 * ~6' Micro USB cable or Mouse cable w/ micro USB port connector component 
 * 28 Ga. 6 conductor silicone ribbon wire (or similar)
-* Soldering Iron, Multi-meter, PH Crimping tool and other misc. tools
+* Soldering Iron, Multi-meter, [PH Crimping tool](https://a.co/d/hdylA0W) and other misc. tools
 
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
 <br/><br/>
