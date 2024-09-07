@@ -14,7 +14,7 @@ The finished design is a functioning prototype that requires a lot of adjusting 
 All 3D printed parts need to be made in a “Tough” or “ABS like” resin material. Resin print color is up to you. ***This project requires resin printed parts. 
 It will not work if parts are 3D printed with the FDM process.***
 
-Current cost estimate is around $200 for the project (in 2024 US dollar bucks, not including tools). This is just a rough guess so you have an idea of what you’re getting into.
+Current cost estimate is around $200 for the build materials (that's in 2024 US dollar bucks, not including tools). This is just a rough guess so you have an idea of what you’re getting into.
 
 ![Statial.b Image 01](img/orthos.png)
 <br/><br/>
