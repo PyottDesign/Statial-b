@@ -16,7 +16,7 @@ It will not work if parts are 3D printed with the FDM process.***
 
 Current (2024) project materials costs are around $200 (not including tools). This is a rough guess so you have an idea of what you’re getting into.
 
-![Statial.b Image 01](img/image_01.png)
+![Statial.b Image 01](img/orthos.png)
 
 
 # Code Background
@@ -45,7 +45,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 * 28 Ga. 6 conductor silicone ribbon wire (or similar)
 * Soldering Iron, Multi-meter, PH Crimping tool and other misc. tools
 
-![Statial.b All Parts](img/orthos.png)
+![Statial.b All Parts](img/statial-b_allparts.JPG)
 
 
 # Configurations
