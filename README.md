@@ -77,8 +77,6 @@ For complete instructions, please download the [Statial.b Instructions PDF](http
 
 ![Statial.b Instruction Manual](img/statial-b_inst_10.png)
 
-![Statial.b Instruction Manual](img/statial-b_inst_11.png)
-
 ![Statial.b Instruction Manual](img/statial-b_inst_12.png)
 
 ![Statial.b Instruction Manual](img/statial-b_inst_13.png)
@@ -96,5 +94,3 @@ For complete instructions, please download the [Statial.b Instructions PDF](http
 ![Statial.b Instruction Manual](img/statial-b_inst_21.png)
 
 ![Statial.b Instruction Manual](img/statial-b_inst_22.png)
-
-![Statial.b Instruction Manual](img/statial-b_inst_23.png)
