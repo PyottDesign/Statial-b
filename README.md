@@ -45,7 +45,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 * 28 Ga. 6 conductor silicone ribbon wire (or similar)
 * Soldering Iron, Multi-meter, PH Crimping tool and other misc. tools
 
-![Statial.b All Parts](img/statial-b_allparts.JPG)
+![Statial.b All Parts](img/orthos.png)
 
 
 # Configurations
