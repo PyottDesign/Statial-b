@@ -52,7 +52,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 Modern mouse grip styles have grown out of players adapting to the shape of a mouse. The Statial.b creates the opportunity for new mouse shapes to grow out of grip styles. Below are some common grip type configurations for the Statial.b as starting points for further adjustment. 
 
 ### PALM
-When fully collapsed the Statial.b is slightly smaller than a normal high performance mouse. Surfaces can be moved out significantly for XL hands.
+When fully collapsed the Statial.b is slightly smaller than a normal high performance mouse. Surfaces can be moved out significantly for larger hands.
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
 
 ### STUBNOSE CLAW
