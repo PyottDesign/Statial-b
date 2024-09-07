@@ -5,7 +5,7 @@ Please check [Statial.b Youtube build](youtube) and the [Statial.b Instructions 
 
 The Statial.b is an open source DIY mouse design. This concept has adjustable surfaces that can be moved and locked in position to create a wide range of ergonomics for any grip style. Files for ambidextrous builds are included in the STL.zip "extras" folder.
 
-Knowledge of 3D printing, basic electronics & soldering skills as well as the ability to upload the supplied code to an Arduino are needed for this build. The design is based around a 16,000 DPI optical sensor in the [PMW3389](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/)and driven by an Arduino compatible [Pro Micro](https://deskthority.net/wiki/Arduino_Pro_Micro) controller.
+Knowledge of 3D printing, basic electronics & soldering skills as well as the ability to upload the supplied code to an Arduino are needed for this build. The design is based around a 16,000 DPI optical sensor in the [PMW3389](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/) and driven by an Arduino compatible [Pro Micro](https://deskthority.net/wiki/Arduino_Pro_Micro) controller.
 
 This is a fairly complex project. I tried to cover all the assembly details in the in the instructions PDF and on YouTube, but some problem solving skills are still going to be required.
 
@@ -14,7 +14,7 @@ The finished design is a functioning prototype that requires a lot of adjusting 
 All 3D printed parts need to be made in a “Tough” or “ABS like” resin material. Resin print color is up to you. ***This project requires resin printed parts. 
 It will not work if parts are 3D printed with the FDM process.***
 
-Current (2024) project materials costs are around $200 (not including tools). This is a rough guess so you have an idea of what you’re getting into.
+Current cost estimate is around $200 for the project (in 2024 US dollar bucks, not including tools). This is just a rough guess so you have an idea of what you’re getting into.
 
 ![Statial.b Image 01](img/orthos.png)
 <br/><br/>
