@@ -17,12 +17,13 @@ It will not work if parts are 3D printed with the FDM process.***
 Current (2024) project materials costs are around $200 (not including tools). This is a rough guess so you have an idea of what you’re getting into.
 
 ![Statial.b Image 01](img/orthos.png)
-<br/><br/><br/>
+<br/><br/>
 
 # Code Background
 * The Statial-b Arduino Sketch is modified from the [Ben Makes Everything PMW3389 Mouse](https://github.com/BenMakesEverything/PMW3389_Mouse)
 * Which is based on [Dkao's Trackball Project](https://github.com/dkao/Kensington_Expert_Mouse_PMW3389_Arduino)
 * That uses source code from [MrJohnk PMW3389](https://github.com/mrjohnk/PMW3389DM)
+<br/><br/>
 
 # Parts
 Full BOM with source links can be found in the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf).
@@ -46,7 +47,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 * Soldering Iron, Multi-meter, PH Crimping tool and other misc. tools
 
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
-<br/><br/><br/>
+<br/><br/>
 
 # Configurations
 Modern mouse grip styles have grown out of players adapting to the shape of a mouse. The Statial.b creates the opportunity for new mouse shapes to grow out of grip styles. Below are some common grip type configurations for the Statial.b as starting points for further adjustment. 
@@ -66,7 +67,7 @@ Surfaces can be configured to experiment with alternate grip methods. For exampl
 ### VERTICAL
 Surfaces can be configured to +50° angle to mimic the fit of a vertical mouse. Fixed ends of rear surface arms can be extended or longer sections of tube can be cut for even steeper angles. 
 ![Statial.b All Parts](img/statial-b_allparts.JPG)
-<br/><br/><br/>
+<br/><br/>
 
 # Instructions
 For complete instructions, please download the [Statial.b Instructions PDF](https://github.com/PyottDesign/Statial-b/statial-b_instructions_v01-00.pdf).
