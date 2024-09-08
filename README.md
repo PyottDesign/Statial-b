@@ -1,7 +1,7 @@
 ![Statial.b Title Banner](img/banner.png)
 
 # Statial.b Adjustable Mouse
-Modern grip styles have grown out of players adapting to standardized mouse shapes.
+Modern grip styles have grown out of players adapting to standardized mouse shapes.<br/>
 The Statial.b lets new mouse shapes grow from grip styles.
 
 The Statial.b is an open source DIY mouse design. This concept has adjustable surfaces that can be moved and locked in position to create a wide range of ergonomics for any grip style. Files for ambidextrous builds are included in the STL.zip "extras" folder.
