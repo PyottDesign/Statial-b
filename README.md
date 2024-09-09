@@ -75,6 +75,8 @@ Surfaces can be configured to +50° angle to mimic the fit of a vertical mouse. 
 # Instructions
 For complete instructions, please download the [Statial.b Instructions PDF](https://github.com/PyottDesign/Statial-b/statial-b_instructions_v01-00.pdf).
 
+![Statial.b Instruction Manual](img/statial-b_inst_05.png)
+
 ![Statial.b Instruction Manual](img/statial-b_inst_07.png)
 
 ![Statial.b Instruction Manual](img/statial-b_inst_08.png)
