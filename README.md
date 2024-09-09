@@ -57,7 +57,8 @@ Below are some common grip type configurations for the Statial.b as starting poi
 
 ### PALM
 When fully collapsed the Statial.b is slightly smaller than a normal high performance mouse. Surfaces can be moved out significantly for larger hands.
-![Statial.b All Parts](img/statial-b_allparts.JPG)
+![Statial.b palm grip](img/grip_palm-02.png)
+![Statial.b palm grip](img/grip_palm-01.png)
 
 ### STUBNOSE CLAW
 Unlike a normal mouse, the buttons on the Statial.b can pitch forward for different grip types. This allows claw grip users to position buttons perpendicular to the pressing motion.
