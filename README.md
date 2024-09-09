@@ -71,7 +71,7 @@ Surfaces can be configured to experiment with alternate grip methods. For exampl
 ![Statial.b finger grip](img/grip_finger-01.png)
 
 ### VERTICAL
-Surfaces can be configured to +50° angle to mimic the fit of a vertical mouse. Fixed ends of rear surface arms can be extended or longer sections of tube can be cut for even steeper angles. 
+Surfaces can be configured to +40° angle to mimic the fit of a vertical mouse. Fixed ends of rear surface arms can be extended or longer sections of tube can be cut for even steeper angles. 
 ![Statial.b angle grip](img/grip_angle-02.png)
 ![Statial.b angle grip](img/grip_angle-01.png)
 <br/><br/>
