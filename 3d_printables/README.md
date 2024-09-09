@@ -1,6 +1,6 @@
 # NOTES
-STL, Lychee and Formlabs files contain most recent versions of all parts.<br/>
-Extras folder with cutting jig and parts for left handed builds are in the STL zip file. Previous versions of parts are saved as individual zipped STL files in /archive/ folder.
+Above STL, Lychee and Formlabs zip files contain most recent versions of all parts.<br/>
+Extras folder with cutting jig and parts for left handed builds are in the STL zip file. Previous versions of parts are saved as individual zipped STL files in the /archive/.
 <br/><br/>
 
 # CHANGELOG
