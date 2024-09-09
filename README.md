@@ -19,7 +19,8 @@ Current cost estimate is around $200 for the build materials (that's in 2024 US 
 
 Please check [Statial.b Youtube build](youtube) and the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf) for more info on this project.
 
-![Statial.b Image 01](img/orthos.png)
+![Statial.b Orthos](img/orthos.png)
+![Statial.b](img/statial-b.png)
 <br/><br/>
 
 # Code Background
