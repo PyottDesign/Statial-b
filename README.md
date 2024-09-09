@@ -62,7 +62,8 @@ When fully collapsed the Statial.b is slightly smaller than a normal high perfor
 
 ### STUBNOSE CLAW
 Unlike a normal mouse, the buttons on the Statial.b can pitch forward for different grip types. This allows claw grip users to position buttons perpendicular to the pressing motion.
-![Statial.b All Parts](img/statial-b_allparts.JPG)
+![Statial.b claw grip](img/grip_claw-02.png)
+![Statial.b claw grip](img/grip_claw-01.png)
 
 ### BACKLESS FINGER
 Surfaces can be configured to experiment with alternate grip methods. For example; finger grip users can remove back surface entirely.
