@@ -67,11 +67,13 @@ Unlike a normal mouse, the buttons on the Statial.b can pitch forward for differ
 
 ### BACKLESS FINGER
 Surfaces can be configured to experiment with alternate grip methods. For example; finger grip users can remove back surface entirely.
-![Statial.b All Parts](img/statial-b_allparts.JPG)
+![Statial.b finger grip](img/grip_finger-02.png)
+![Statial.b finger grip](img/grip_finger-01.png)
 
 ### VERTICAL
 Surfaces can be configured to +50° angle to mimic the fit of a vertical mouse. Fixed ends of rear surface arms can be extended or longer sections of tube can be cut for even steeper angles. 
-![Statial.b All Parts](img/statial-b_allparts.JPG)
+![Statial.b angle grip](img/grip_angle-02.png)
+![Statial.b angle grip](img/grip_angle-01.png)
 <br/><br/>
 
 # Instructions
