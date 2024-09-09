@@ -1,5 +1,5 @@
 # NOTE
-STL, Lychee and Formlabs files contain most recent versions of all parts. Previous versions are saved as individual zipped STL files in /archive/ folder.
+STL, Lychee and Formlabs files contain most recent versions of all parts. Extras folder with cutting jig and parts for left handed builds are in STL Statial-b_STL_SBv10.zip. Previous versions of parts are saved as individual zipped STL files in /archive/ folder.
 <br/><br/>
 
 # CHANGELOG
