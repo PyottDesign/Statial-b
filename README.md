@@ -55,7 +55,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 # Configurations
 Below are some common grip type configurations for the Statial.b as starting points for further adjustment. Mouse ergronomics are extreamly sensitive. A 1mm or 1 degree adjustment can take an uncomfortable setup to a great one (and vice versa). When using the Statial.b, try and think about what feels right and what feels off in your grip and make micro adjstments to single surfaces only until it's dialed in. 
 
-### PALM
+### VARIABLE PALM
 When fully collapsed the Statial.b is slightly smaller than a normal high performance mouse. Surfaces can be moved out significantly for larger hands.
 ![Statial.b palm grip](img/grip_palm-02.png)
 ![Statial.b palm grip](img/grip_palm-01.png)
@@ -70,7 +70,7 @@ Surfaces can be configured to experiment with alternate grip methods. For exampl
 ![Statial.b finger grip](img/grip_finger-02.png)
 ![Statial.b finger grip](img/grip_finger-01.png)
 
-### VERTICAL
+### ERGO VERTICAL
 Surfaces can be configured to +40° angle to mimic the fit of a vertical mouse. Fixed ends of rear surface arms can be extended or longer sections of tube can be cut for even steeper angles. 
 ![Statial.b angle grip](img/grip_angle-02.png)
 ![Statial.b angle grip](img/grip_angle-01.png)
