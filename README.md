@@ -35,7 +35,7 @@ Full BOM with source links can be found in the [Statial.b Instructions PDF](stat
 * ~170 mL of [Tough](https://formlabs.com/store/materials/tough-2000-resin/) or [ABS Like](https://store.anycubic.com/products/abs-like-resin-pro-2) resin
 * [PMW3389 Optical Sensor](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/)
 * [Pro Micro (5 Volt/16 MHz)](https://deskthority.net/wiki/Arduino_Pro_Micro)
-* Custom Bridge Board & Middle Routing Board PCB
+* [Custom Bridge Board & Middle Routing Board PCB](https://jlcpcb.com/?from=PyottDesign)
 * M2 button head screws & M2.5 set screws
 * M2 and M2.5 nuts
 * 1/8" diameter aluminum tube stock
