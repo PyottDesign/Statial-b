@@ -8,7 +8,7 @@ The Statial.b is an open source DIY mouse design. This concept has adjustable su
 
 Knowledge of 3D printing, basic electronics & soldering skills as well as the ability to upload the supplied code to an Arduino are needed for this build. The design is based around a 16,000 DPI optical sensor in the [PMW3389](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/) and driven by an Arduino compatible [Pro Micro](https://deskthority.net/wiki/Arduino_Pro_Micro) controller.
 
-This is a fairly complex project. I tried to cover all the assembly details in the in the [instructions PDF](statial-b_instructions_v01-00.pdf) and on the [YouTube instructions](https://youtu.be/mxcq_XHlG_c), but some problem solving skills are still going to be required.
+This is a fairly complex project. I tried to cover all the assembly details in the in the [instructions PDF](statial-b_instructions_v01-00.pdf) and on the [YouTube instructions](https://youtu.be/HTKbrcy7GT0), but some problem solving skills are still going to be required.
 
 The finished design is a functioning prototype that requires a lot of adjusting to get it dialed in and is more fragile than a normal commercially produced product. It’s also a heavy mouse weighing up to a hefty 130 grams (depending on components used). All that said, it works great and is super fun to use. There’s really nothing else like it out there if you’re looking to explore mouse ergonomics.
 
@@ -17,7 +17,7 @@ It (probably) won't work if parts are 3D printed with an FDM printer.***
 
 Current cost estimate is around $200 for the build materials (that's in 2024 US dollar bucks, not including tools). This is just a rough guess so you have an idea of what you’re getting into.
 
-Please check [Statial.b Youtube build](https://youtu.be/mxcq_XHlG_c) and the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf) for more info on this project.
+Please check [Statial.b Youtube build](https://youtu.be/HTKbrcy7GT0) and the [Statial.b Instructions PDF](statial-b_instructions_v01-00.pdf) for more info on this project.
 
 ![Statial.b Orthos](img/orthos.png)
 ![Statial.b](img/statial-b.png)
